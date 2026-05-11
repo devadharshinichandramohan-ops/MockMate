@@ -223,5 +223,7 @@ Clone the repository and open `index.html` in a browser.
 ---
 
 ## Author
+
 Deva Dharshini C
+
 Artifical Intelligence And Machine Learning 

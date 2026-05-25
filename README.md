@@ -179,7 +179,7 @@ https://mock-mate-edu-prep.vercel.app/
 ## Repository
 
 GitHub Repository:
-https://github.com/AkshayaKrishnan18/MockMate-EduPrep
+https://github.com/devadharshinichandramohan-ops/MockMate
 
 ---
 
